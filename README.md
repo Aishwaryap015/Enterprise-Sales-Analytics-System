@@ -52,17 +52,17 @@ The dashboard helps stakeholders track revenue, profit, product performance, reg
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots_dashboard_overview.png)
+![Dashboard Overview](screenshots/screenshots_dashboard_overview.png)
 
 ### Revenue Analysis
-![Revenue Analysis](screenshots_revenue_analysis.png)
+![Revenue Analysis](screenshots/screenshots_revenue_analysis.png)
 
 ### Profit & Discount Analysis
-![Profit Analysis](screenshots_profit_analysis.png)
+![Profit Analysis](screenshots/screenshots_profit_analysis.png)
 
 ### Sql Analysis Results
-![Sql Analysis](screenshots_sql_analysis_results.png)
-![Sql Analysis](screenshots_sql_analysis_results_01.png)
+![SQL Analysis](screenshots/screenshots_sql_analysis_results.png)
+![SQL Analysis](screenshots/screenshots_sql_analysis_results 01.png)
 
 ---
 
