@@ -62,7 +62,7 @@ The dashboard helps stakeholders track revenue, profit, product performance, reg
 
 ### Sql Analysis Results
 ![SQL Analysis](screenshots/screenshots_sql_analysis_results.png)
-![SQL Analysis](screenshots/screenshots_sql_analysis_results 01.png)
+![SQL Analysis](screenshots/screenshots_sql_analysis_results_01.png)
 
 ---
 
